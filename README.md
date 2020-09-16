@@ -1,5 +1,7 @@
 # spring-mvc-hibernate-dbcp2-tutorial
 
+#### Spring MVC features explained in spring-mvc-jdbc-tutorial code
+
 This tutorial code used to explain Spring with Hibernate for persistence layer and Web MVC to call CRUD operations and using dbcp2 API for connection pool management by following tasks:
 
 * add **spring-context**, **mysql-connector-java**, **spring-orm** **spring-webmvc** and dependencies
